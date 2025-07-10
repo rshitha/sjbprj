@@ -1,6 +1,6 @@
 package sjb.timecomplexity;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         int[] data = {5, 12, 7, 9, 23, 15}; 
         int key = 9;  
